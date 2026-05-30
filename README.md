@@ -1,1 +1,2 @@
-# coding-project-template
+This is a React project that shows how to view and add plants to a shopping cart.
+Along with normal features to delete or increase the quanity in items in the shopping cart, while simultaneously increasing/decreasing the ammout.
