@@ -10,6 +10,26 @@ body {
     background-color: #f0f0f0;
 }
 
+.cart {
+    position: relative;
+    display: inline-block;
+}
+
+.cart-count {
+    position: absolute;
+    top: 0;
+    right: 0;
+    background-color: red;
+    color: white;
+    border-radius: 50%;
+    font-size: 16px;
+    min-width: 24px;
+    height: 24px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 /* Navbar */
 .navbar {
     background-color: #4CAF50;
